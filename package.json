@@ -1,0 +1,19 @@
+{
+  "name": "asynjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afcarrion/AsynJavaScript.git"
+  },
+  "author": "Freehyoga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afcarrion/AsynJavaScript/issues"
+  },
+  "homepage": "https://github.com/afcarrion/AsynJavaScript#readme"
+}
