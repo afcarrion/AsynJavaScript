@@ -13,4 +13,6 @@ function fecthData(url_api, callback) {
       }
     }
   };
+
+  xhttp.send();
 }
