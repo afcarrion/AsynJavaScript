@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "callback":"node src/callback/index.js"
+    "callback": "node src/callback/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/afcarrion/AsynJavaScript/issues"
   },
-  "homepage": "https://github.com/afcarrion/AsynJavaScript#readme"
+  "homepage": "https://github.com/afcarrion/AsynJavaScript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
